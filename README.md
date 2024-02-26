@@ -12,20 +12,12 @@ This is my nvim config, the config is based on **[NvChad](https://nvchad.com)** 
 ## Install
 
 **Linux**
-```bash
-git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1 && nvim
-```
-**WARNING:** Do **NOT** use the example configuration for NvChad. 
 
 ```bash
 git clone https://github.com/TheTreeSee/nvim-config ~/.config/nvim --depth 1 && nvim
 ```
 
 **Windows**
-```powershell
-git clone https://github.com/NvChad/NvChad $ENV:USERPROFILE\AppData\Local\nvim --depth 1 && nvim
-```
-**WARNING:** Do **NOT** use the example configuration for NvChad. 
 
 ```powershell
 git clone https://github.com/TheTreeSee/nvim-config $ENV:USERPROFILE\AppData\Local\nvim --depth 1 && nvim
